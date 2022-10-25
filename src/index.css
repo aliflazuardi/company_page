@@ -9,7 +9,7 @@
     144.39deg,
     #ffffff -278.56%,
     #6d6d6d -78.47%,
-    #11101d 91.61%
+    #37d0eb 91.61%
   );
   --card-shadow: 0px 20px 100px -10px rgba(66, 71, 91, 0.1);
 }
@@ -21,12 +21,12 @@
 .text-gradient {
   background: radial-gradient(
     64.18% 64.18% at 71.16% 35.69%,
-    #def9fa 0.89%,
-    #bef3f5 17.23%,
-    #9dedf0 42.04%,
-    #7de7eb 55.12%,
-    #5ce1e6 71.54%,
-    #33bbcf 100%
+    #635f5f 0.89%,
+    #987da5 17.23%,
+    #a184af 42.04%,
+    #a561e4 55.12%,
+    #794be4 71.54%,
+    #6c27ec 100%
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
