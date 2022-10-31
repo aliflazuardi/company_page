@@ -51,8 +51,8 @@ export const stats = [
   },
   {
     id: "stats-2",
-    title: "Trusted By Clients",
-    value: "500+",
+    title: "Daily Users",
+    value: "1M+",
   },
   {
     id: "stats-3",
