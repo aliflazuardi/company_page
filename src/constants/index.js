@@ -1,4 +1,4 @@
-import { facebook, instagram, linkedin, twitter, send, shield, star  } from "../assets";
+import { facebook, instagram, linkedin, twitter, shield, cloudcomputing, brain  } from "../assets";
 
 export const navLinks = [
   {
@@ -22,42 +22,42 @@ export const navLinks = [
 export const services = [
   {
     id: "service-1",
-    icon: star,
-    title: "Recommendation System",
+    icon: brain,
+    title: "Artificial Intelligence",
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "We utilize machine learning to train our artificial intelligence solutions. Our Artifical Intelligence solutions range from recommendation system, object detection, sentiment analysis, etc.",
   },
   {
     id: "service-2",
     icon: shield,
     title: "Cybersecurity",
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "We provide the best tools to help you secure your system from attackers accross the globe. Worry less about your system and data security.",
   },
   {
     id: "service-3",
-    icon: send,
-    title: "Blazing Fast",
+    icon: cloudcomputing,
+    title: "Cloud Computing",
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "We help manage your system in the cloud, ensuring stability of your system and cost efficiency. Monitor your system performance through our modern dashboard.",
   },
 ];
 
 export const stats = [
   {
     id: "stats-1",
-    title: "Projects",
-    value: "500+",
+    title: "In Southeast Asia",
+    value: "No.1",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "180+",
+    title: "Trusted By Clients",
+    value: "500+",
   },
   {
     id: "stats-3",
-    title: "Users",
-    value: "100K+",
+    title: "Years of Service",
+    value: "20+",
   },
 ];
 

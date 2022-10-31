@@ -25,7 +25,7 @@ const Services = () => (
         World Class <br className="sm:block hidden" /> IT Services
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      We provide world class services for our clients. We use state of the art technology solution for your special needs.
       </p>
 
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6">
