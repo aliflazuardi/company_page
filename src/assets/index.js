@@ -20,6 +20,7 @@ import ai from "./AI.png"
 import cloud from "./cloud.png"
 import cloudcomputing from "./cloud.svg"
 import brain from "./brain.svg"
+import consulting from "./consulting.png"
 
 export {
   bill,
@@ -44,4 +45,5 @@ export {
   cloud,
   cloudcomputing,
   brain,
+  consulting,
 };

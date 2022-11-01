@@ -1,5 +1,5 @@
 import styles from '../style'
-import { ai } from '../assets'
+import { consulting } from '../assets'
 
 const Hero = () => (
   <section id="Home" className={`flex md:flex-row flex-col ${styles.paddingY}`}>
@@ -28,7 +28,7 @@ const Hero = () => (
       </div>
 
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
-        <img src={ai} alt="technology" className="w-[100%] h-[100%] relative z-[5]" />
+        <img src={consulting} alt="technology" className="w-[100%] h-[100%] relative z-[5]" />
 
         {/* gradient start */}
         <div className="absolute z-[0] w-[40%] h-[35%] top-0 blue__gradient" />
